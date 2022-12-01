@@ -1,2 +1,2 @@
 # web-stranica
-Prototip sajta IT firme
+Prototype website of an IT company
